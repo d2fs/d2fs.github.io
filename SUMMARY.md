@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Initial page](README.md)
+* [테스트](README.md)
 
 ## 기교전에 기본
 
